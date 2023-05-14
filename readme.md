@@ -1,3 +1,4 @@
-First learn simple_docker,
-second docker_compose_build,
-third docker_compose_wordpres.
+First learn docker,
+second learn Kubernetes,
+third learn ArgoCD.
+fourth learn cloud deployment on kubernetes managed service.
